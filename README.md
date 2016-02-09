@@ -1,5 +1,12 @@
 # WABI_data
-The MP_UP_WABI data set is openly available for research, education, or other non-commercial purposes under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. These data have been used in a series of publications by C. Michael Barton, Julien Riel-Salvatore, and Gabriel Popescu. The data were compiled from original and published research. Please cite one of the following papers as appropriate.
+The Middle and Upper Paleolithic dataset used for whole assemblages behavioral indicator (WABI) research is openly available for research, education, or other non-commercial purposes under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. These data have been used in a series of publications by C. Michael Barton, Julien Riel-Salvatore, and Gabriel Popescu. The data were compiled from original and published research. Please cite the dataset and/or one of the following papers as appropriate.
+
+DIRECTLY CITING DATASET
+
+C Michael Barton, Julien Riel-Salvatore, & Gabriel Popescu. (2016, February 9). Middle and Upper Paleolithic dataset used for whole assemblages behavioral indicator (WABI) research. GitHub. Retrieved from https://github.com/cmbarton/WABI_data. DOI: 10.5281/zenodo.45841.
+
+
+ASSOCIATED PUBLICATIONS FOR CITATION:
 
 SPANISH AND GIBRALTAR DATA ONLY
 
