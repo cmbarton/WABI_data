@@ -1,0 +1,189 @@
+country,site,level,industry,meta.industry,MIS,total.retouched,total.lithics,ret.freq,vol.dens,old.ret
+Gibraltar,Gorham's Cave,B,Upper Paleolithic,U Paleo,2,8,161,0.049689441,6.5205,0.049689441
+Gibraltar,Gorham's Cave,D1-2,Upper Paleolithic,U Paleo,2,12,568,0.0211267606,13.8024,0.0211267606
+Gibraltar,Gorham's Cave,E1-3,Upper Paleolithic,U Paleo,2,3,38,0.0789473684,0.9234,0.0789473684
+Gibraltar,Gorham's Cave,F1-2,Upper Paleolithic,U Paleo,3,8,54,0.1481481481,1.3812631579,0.1481481481
+Gibraltar,Gorham's Cave,G,Mousterian,M Paleo,4,41,5233,0.0078348939,117.7425,0.0078348939
+Gibraltar,Gorham's Cave,K,Mousterian,M Paleo,5b,26,1498,0.0173564753,57.78,0.0173564753
+Gibraltar,Gorham's Cave,M,Mousterian,M Paleo,5b,18,1467,0.0122699387,48.5008163265,0.0122699387
+Gibraltar,Gorham's Cave,P,Mousterian,M Paleo,5b,6,464,0.0129310345,53.6914285714,0.0129310345
+Gibraltar,Gorham's Cave,Q,Mousterian,M Paleo,5b,2,38,0.0526315789,1.7588571429,0.0526315789
+Gibraltar,Gorham's Cave,R,Mousterian,M Paleo,5c,2,44,0.0454545455,1.1254736842,0.0454545455
+Italy,Capelvenere,1,Mousterian,M Paleo,4,4,103,0.0388349515,11.7045454545,0.0388349515
+Italy,Capelvenere,2,Mousterian,M Paleo,4,0,60,0,14.5833333333,0
+Italy,Capelvenere,3,Mousterian,M Paleo,4,8,71,0.1126760563,14.7916666667,0.1126760563
+Italy,Capelvenere,4,Mousterian,M Paleo,4,3,30,0.1,6.25,0.1
+Italy,Capelvenere,5,Mousterian,M Paleo,4,10,36,0.2777777778,7.5,0.2777777778
+Italy,Capelvenere,6,Mousterian,M Paleo,4,7,39,0.1794871795,8.125,0.1794871795
+Italy,Capelvenere,7,Mousterian,M Paleo,4,8,25,0.32,3.4722222222,0.32
+Italy,Capelvenere,8,Mousterian,M Paleo,4,10,116,0.0862068966,16.3888888889,0.0847457627
+Italy,Capelvenere,9,Mousterian,M Paleo,4,39,286,0.1363636364,39.7222222222,0.1363636364
+Italy,Capelvenere,10,Mousterian,M Paleo,4,18,106,0.1698113208,19.4642857143,0.1651376147
+Italy,Capelvenere,10/b,Mousterian,M Paleo,4,1,23,0.0434782609,1.9166666667,0.0434782609
+Italy,Grotta di Castelcivita,PA - C,Proto-Aurignacian ,U Paleo,3,323,1415,0.2282685512,1397.5,0.228
+Italy,Grotta di Castelcivita,PA - D,Proto-Aurignacian ,U Paleo,3,465,2118,0.2195467422,2732.9,0.22
+Italy,Grotta di Castelcivita,PIE,Uluzzian,Trans,3,442,1602,0.2759051186,185.8,0.349
+Italy,Grotta di Castelcivita,RPI,Uluzzian,Trans,3,210,1136,0.1848591549,833.8,0.185
+Italy,Grotta di Castelcivita,RSA,Uluzzian,Trans,3,103,295,0.3491525424,1424,0.276
+Italy,Grotta di Castelcivita,RSI,Uluzzian,Trans,3,20,105,0.1904761905,113.5,0.19
+Italy,M.Zei,A-I,Mousterian,M Paleo,4,68,303,0.2244224422,1154.2857142857,0.2244224422
+Italy,M.Zei,A-II/III,Mousterian,M Paleo,4,72,377,0.1909814324,718.0952380952,0.1909814324
+Italy,M.Zei,A-IV,Mousterian,M Paleo,4,34,198,0.1717171717,377.1428571429,0.1717171717
+Italy,Mario Bernardini,A I-A II,Uluzzian,Trans,3,43,148,0.2905405405,5.3756606069,0.2905405405
+Italy,Mario Bernardini,A III,Uluzzian,Trans,3,13,42,0.3095238095,19.9491770964,0.3095238095
+Italy,Mario Bernardini,A IV,Uluzzian,Trans,3,94,496,0.189516129,235.5902819009,0.189516129
+Italy,Mario Bernardini,A V,Mousterian,M Paleo,3,22,58,0.3793103448,35.8135226922,0.3793103448
+Italy,Mario Bernardini,A VI,Mousterian,M Paleo,3,18,64,0.28125,19.75918493,0.28125
+Italy,Mario Bernardini,A VII,Mousterian,M Paleo,3,19,68,0.2794117647,18.25576869,0.2794117647
+Italy,Mario Bernardini,A VIII,Mousterian,M Paleo,3,33,109,0.3027522936,39.59101393,0.3027522936
+Italy,Mario Bernardini,A IX,Mousterian,M Paleo,3,9,37,0.2432432432,9.933285904,0.2432432432
+Italy,Mario Bernardini,B1,Mousterian,M Paleo,3,22,118,0.186440678,36.43099722,0.186440678
+Italy,Mario Bernardini,B2,Mousterian,M Paleo,3,81,900,0.09,277.8635381,0.09
+Italy,Mario Bernardini,B3,Mousterian,M Paleo,3,125,876,0.1426940639,270.4538438,0.1426940639
+Italy,Mario Bernardini,B4,Mousterian,M Paleo,3,14,87,0.1609195402,26.86014202,0.1609195402
+Italy,Mario Bernardini,D1,Mousterian,M Paleo,4,10,29,0.3448275862,11.9378409,0.3448275862
+Italy,Mario Bernardini,D10-D11,Mousterian,M Paleo,4,13,60,0.2166666667,15.84851292,0.2077922078
+Italy,Mario Bernardini,D12,Mousterian,M Paleo,4,30,113,0.2654867257,16.46598744,0.25
+Italy,Mario Bernardini,D13,Mousterian,M Paleo,4,8,40,0.2,13.17278996,0.5
+Italy,Mario Bernardini,D2,Mousterian,M Paleo,4,9,35,0.2571428571,24.69898117,0.2166666667
+Italy,Mario Bernardini,D3,Mousterian,M Paleo,4,9,40,0.225,46.51641453,0.2654867257
+Italy,Mario Bernardini,D4,Mousterian,M Paleo,4,16,47,0.3404255319,16.46598744,0.2
+Italy,Mario Bernardini,D5,Mousterian,M Paleo,4,10,31,0.3225806452,14.40773901,0.2571428571
+Italy,Mario Bernardini,D6,Mousterian,M Paleo,4,11,45,0.2444444444,16.46598744,0.225
+Italy,Mario Bernardini,D7,Mousterian,M Paleo,4,16,77,0.2077922078,19.34753525,0.3404255319
+Italy,Mario Bernardini,D8,Mousterian,M Paleo,4,10,40,0.25,12.76114027,0.3225806452
+Italy,Mario Bernardini,D9,Mousterian,M Paleo,4,16,32,0.5,18.52423588,0.2444444444
+Italy,Riparo Bombrini,A1,Proto-Aurignacian ,U Paleo,3,21,186,0.1129032258,308,0.1494
+Italy,Riparo Bombrini,A2,Proto-Aurignacian ,U Paleo,3,54,1029,0.0524781341,870,0.0575
+Italy,Riparo Bombrini,M1,Mousterian,M Paleo,3,4,118,0.0338983051,1966.67,0.0339
+Italy,Riparo Bombrini,M2,Mousterian,M Paleo,3,1,108,0.0092592593,3600,0.0093
+Italy,Riparo Bombrini,M3,Mousterian,M Paleo,3,5,326,0.0153374233,5433.33,0.0153
+Italy,Riparo Bombrini,M4,Mousterian,M Paleo,3,6,319,0.0188087774,3038.1,0.0188
+Italy,Riparo Bombrini,M5,Mousterian,M Paleo,3,11,400,0.0275,3809.52,0.0275
+Italy,Riparo Bombrini,M6,Mousterian,M Paleo,3,1,39,0.0256410256,1300,0.0256
+Italy,Riparo Bombrini,M7,Mousterian,M Paleo,3,0,58,0,1288.89,0
+Italy,Riparo Bombrini,MS,Mousterian,M Paleo,3,10,139,0.071942446,463.33,0.0719
+Italy,Serra Cicora,A,Proto-Aurignacian,U Paleo,3,63,210,0.3,913.0434782609,0.3
+Italy,Serra Cicora,B,Proto-Aurignacian,U Paleo,3,100,364,0.2747252747,1022.4719101124,0.2747252747
+Italy,Serra Cicora,C,Uluzzian,Trans,3,135,780,0.1730769231,2234.9570200573,0.1730769231
+Italy,Serra Cicora,D,Uluzzian,Trans,3,331,1246,0.2656500803,1220.1331766549,0.2656500803
+Italy,Serra Cicora,B-C,Mousterian,M Paleo,3,137,507,0.2702169625,565.5555555556,0.2652259332
+Italy,Serra Cicora,D-E,Mousterian,M Paleo,3,126,388,0.324742268,260,0.3256410256
+Italy,Serra Cicora,F,Mousterian,M Paleo,3,48,181,0.2651933702,128.8888888889,0.2025862069
+Italy,Torre dell'Alto,A,Mousterian,M Paleo,3,275,2255,0.1219512195,458.358662614,0.1229000884
+Italy,Torre dell'Alto,B,Mousterian,M Paleo,3,251,2817,0.0891018814,798.865248227,0.0862926136
+Italy,Torre dell'Alto,C-high,Mousterian,M Paleo,4,234,1720,0.1360465116,974.7517730496,0.1332945285
+Italy,Torre dell'Alto,C-low,Mousterian,M Paleo,4,351,3052,0.1150065531,1434.0425531915,0.1117705242
+Italy,Torre dell'Alto,D,Mousterian,M Paleo,4,1050,9715,0.1080802882,2290.0709219858,0.1077733044
+Italy,Torre dell'Alto,E,Mousterian,M Paleo,4,117,835,0.1401197605,590.780141844,0.1404561825
+Italy,Uluzzo,F high,Epigravettian,U Paleo,2,68,787,0.0864040661,1788.2299477392,0.0864040661
+Italy,Uluzzo,F low,Epigravettian,U Paleo,2,68,764,0.0890052356,1735.9690979323,0.0890052356
+Italy,Uluzzo,G,Epigravettian,U Paleo,2,185,1521,0.1216305062,2225.734228895,0.1216305062
+Italy,Uluzzo,I,Epigravettian,U Paleo,2,184,1373,0.13401311,1167.3978845696,0.13401311
+Italy,Uluzzo,M,Uluzzian,Trans,3,5,86,0.0581395349,42.4691358025,0.0581395349
+Italy,Uluzzo,N,Uluzzian,Trans,3,12,135,0.0888888889,484.1442749939,0.0888888889
+Italy,Uluzzo C,C,Uluzzian,Trans,3,8,30,0.2666666667,42.735042735,0.2666666667
+Italy,Uluzzo C,D,Uluzzian,Trans,3,10,45,0.2222222222,115.3846153846,0.2222222222
+Italy,Uluzzo C,E,Uluzzian,Trans,3,32,70,0.4571428571,179.4871794872,0.4571428571
+Italy,Uluzzo C,A,Epigravettian,U Paleo,2,63,389,0.1619537275,586.7269984917,0.1619537275
+Italy,Uluzzo C,6,Mousterian,M Paleo,4,42,119,0.3529411765,244.1025641026,0.3529411765
+Italy,Uluzzo C,7,Mousterian,M Paleo,3,21,76,0.2763157895,155.8974358974,0.2763157895
+Italy,Uluzzo C,8,Mousterian,M Paleo,3,40,122,0.3278688525,250.2564102564,0.3278688525
+Italy,Uluzzo C,9,Mousterian,M Paleo,3,29,104,0.2788461538,213.3333333333,0.2788461538
+Italy,Uluzzo C,10,Mousterian,M Paleo,3,35,80,0.4375,164.1025641026,0.4375
+Italy,Uluzzo C,11,Mousterian,M Paleo,3,49,194,0.2525773196,397.9487179487,0.2525773196
+Italy,Uluzzo C,12,Mousterian,M Paleo,3,50,119,0.4201680672,244.1025641026,0.4201680672
+Italy,Uluzzo C,13,Mousterian,M Paleo,3,74,224,0.3303571429,459.4871794872,0.3303571429
+Italy,Uluzzo C,14,Mousterian,M Paleo,3,112,371,0.3018867925,761.0256410256,0.3018867925
+Italy,Uluzzo C,15,Mousterian,M Paleo,3,170,600,0.2833333333,1230.7692307692,0.2833333333
+Italy,Uluzzo C,16,Mousterian,M Paleo,4,111,608,0.1825657895,1247.1794871795,0.1825657895
+Italy,Uluzzo C,17,Mousterian,M Paleo,4,182,439,0.4145785877,900.5128205128,0.4145785877
+Italy,Uluzzo C,18,Mousterian,M Paleo,4,30,121,0.2479338843,248.2051282051,0.2479338843
+Italy,Uluzzo C,19,Mousterian,M Paleo,4,36,128,0.28125,262.5641025641,0.28125
+Italy,Uluzzo C,20,Mousterian,M Paleo,4,36,140,0.2571428571,287.1794871795,0.2571428571
+Italy,Uluzzo C,21,Mousterian,M Paleo,4,11,103,0.1067961165,211.2820512821,0.1067961165
+Italy,Uluzzo C,22,Mousterian,M Paleo,4,7,56,0.125,114.8717948718,0.125
+Jordan,Ain al-Buhira,C,Ahmarian,U Paleo,2,935,7461,0.1253183219,,0.1253183219
+Jordan,Ain al-Buhira,H-I,Late Ahmarian,U Paleo,2,237,2163,0.1095700416,,0.10957004
+Jordan,Tabaqa,,Late Epipaleolithic,U Paleo,2,191,5576,0.0342539455,5810,0.034253945
+Jordan,Tor al-Tareeq,Unit B - III,Early Epipaleolithic,U Paleo,2,149,1963,0.0759042282,9270,0.0759042
+Jordan,Tor al-Tareeq,Unit B - V,Early Epipaleolithic,U Paleo,2,430,4124,0.1042677013,6570,0.104267
+Jordan,Tor al-Tareeq,Unit C - II,Middle Epipaleolithic,U Paleo,2,606,6201,0.0977261732,6740,0.097726173
+Jordan,Tor Sadaf,EUP,Early Ahmarian,U Paleo,3,336,11595,0.0289780078,,0.028978008
+Jordan,Tor Sadaf,T - A,Transition A,Trans,3,121,3660,0.0330601093,,0.033010109
+Jordan,Tor Sadaf,T - B,Transition B,Trans,3,194,4519,0.0429298517,,0.04292985
+Jordan,Tor Sageer,,Early Epipaleolithic,U Paleo,2,623,11690,0.0532934132,4870,0.0532939
+Jordan,WHS 621,-,Mousterian Tabun B,M Paleo,4,662,4091,0.1618186263,,0.151695692
+Jordan,WHS 634,-,Mousterian Tabun D,M Paleo,5c,211,7408,0.0284827214,,
+Jordan,Yutil al-Hasa,C,Early Epipaleolithic,U Paleo,2,661,9712,0.0680601318,6220,0.0680601
+Jordan,Yutil al-Hasa,Area D,Late Epipaleolithic,U Paleo,2,216,3107,0.0695204377,5440,0.069520438
+Jordan,Yutil-al-Hasa,,Late Ahmarian Test A,U Paleo,2,184,1692,0.1087470449,,0.10894
+Jordan,Yutil-al-Hasa,,Late Ahmarian Test B,U Paleo,3,86,721,0.1192787795,,0.1192788
+Romania,Baia de Fier-Pestera Muierii,,UP,U Paleo,,19,61,0.3114754098,19.0625,0.31147541
+Romania,Baia de Fier-Pestera Muierii,,Mousterian,M Paleo,3,349,4936,0.0707050243,172.5874125874,0.070705024
+Romania,Baile Herculane-Pestera Hotilor ,,UP,U Paleo,,7,19,0.3684210526,4.8469387755,0.368421053
+Romania,Baile Herculane-Pestera Hotilor ,,UP,U Paleo,,86,1064,0.0808270677,104.3137254902,0.080827068
+Romania,Baile Herculane-Pestera Hotilor,,Mousterian,M Paleo,,25,155,0.1612903226,55.3571428571,0.161290323
+Romania,Borosteni-Pestera Cioarei,E,Mousterian,M Paleo,3,22,167,0.1317365269,9.7376093294,0.131736527
+Romania,Borosteni-Pestera Cioarei,F,Mousterian,M Paleo,3,4,59,0.0677966102,4.0136054422,0.06779661
+Romania,Borosteni-Pestera Cioarei,G,Mousterian,M Paleo,3,14,136,0.1029411765,13.9795918367,0.102189781
+Romania,Borosteni-Pestera Cioarei,H,Mousterian,M Paleo,3,12,245,0.0489795918,25,0.048979592
+Romania,Borosteni-Pestera Cioarei,J,Mousterian,M Paleo,,5,128,0.0390625,5.2653061224,0.03875969
+Romania,Cosava-Cuca,I ,Aurignacian,U Paleo,3,111,609,0.1822660099,26.9469026549,0.18226601
+Romania,Cosava-Cuca,III,Aurignacian,U Paleo,3,24,183,0.131147541,8.0973451327,0.131147541
+Romania,Gornea-Dealu Caunitei,,Mousterian,M Paleo,,15,147,0.1020408163,26.25,0.102040816
+Romania,Nandru-Pestera Curata,I a,Mousterian,M Paleo,3,10,34,0.2941176471,1.8085106383,0.294117647
+Romania,Nandru-Pestera Curata,I b+c,Mousterian,M Paleo,3,28,85,0.3294117647,2.0551257253,0.329411765
+Romania,Nandru-Pestera Curata,II a,Mousterian,M Paleo,3,10,31,0.3225806452,3.6643026005,0.322580645
+Romania,Nandru-Pestera Curata,II b,Mousterian,M Paleo,3,8,23,0.347826087,1.5292553191,0.347826087
+Romania,Nandru-Pestera Curata,II c,Mousterian,M Paleo,3,16,38,0.4210526316,2.3779724656,0.421052632
+Romania,Nandru-Pestera Curata,II d,Mousterian,M Paleo,,30,87,0.3448275862,5.1418439716,0.344827586
+Romania,Nandru-Pestera Spurcata,,Mousterian,M Paleo,3,18,29,0.6206896552,6.9047619048,0.620689655
+Romania,Ohaba Ponor,,Aurignacian,U Paleo,3,3,18,0.1666666667,10.9090909091,0.166666667
+Romania,Ohaba Ponor,I,Mousterian,M Paleo,3,3,18,0.1666666667,39.375,0.158730159
+Romania,Ohaba Ponor,II,Mousterian,M Paleo,3,10,63,0.1587301587,18.2978723404,0.139534884
+Romania,Ohaba Ponor,III a+b,Mousterian,M Paleo,3,51,356,0.143258427,68.4944684945,0.143258427
+Romania,Ohaba Ponor,III c,Mousterian,M Paleo,3,43,391,0.1099744246,84.0860215054,0.109974425
+Romania,Ohaba Ponor,III d,Mousterian,M Paleo,,25,208,0.1201923077,68.3333333333,0.12195122
+Romania,Ohaba Ponor,III e,Mousterian,M Paleo,,9,59,0.1525423729,35.119047619,0.152542373
+Romania,Ohaba Ponor,III f,Mousterian,M Paleo,,6,61,0.0983606557,17.7325581395,0.098360656
+Romania,Ohaba Ponor,III g,Mousterian,M Paleo,,24,198,0.1212121212,31.884057971,0.121212121
+Romania,Ohaba Ponor,III w/o nr.,Mousterian,M Paleo,,70,441,0.1587301587,64.0058055152,0.158730159
+Romania,Ohaba Ponor,IV a,Mousterian,M Paleo,,19,127,0.1496062992,16.4935064935,0.149606299
+Romania,Ohaba Ponor,IV b,Mousterian,M Paleo,,9,50,0.18,11.8787878788,0.183673469
+Romania,Pescari-Pestera Livadita,,Mousterian,M Paleo,,4,18,0.2222222222,0.6617647059,0.222222222
+Romania,Pestera Moieciu-Pestera Mare,,UP,U Paleo,2,67,173,0.387283237,14.4166666667,0.387283237
+Romania,Pestera Moieciu-Pestera Mare,,UP,U Paleo,2,19,39,0.4871794872,7.5,0.487179487
+Romania,Pestera Moieciu-Pestera Mare,,Mousterian,M Paleo,3,28,44,0.6363636364,1.4666666667,0.636363636
+Romania,Pestera Valea Coacazei,,Gravettian,U Paleo,,1,10,0.1,3.7037037037,0.1
+Romania,Pestera Valea Coacazei,,Mousterian,M Paleo,3,6,29,0.2068965517,10.3571428571,0.206896552
+Romania,Rasnov-Gura Cheii ,,UP,U Paleo,,6,49,0.1224489796,43.5555555556,0.12244898
+Romania,Rasnov-Gura Cheii ,,UP,U Paleo,,18,46,0.3913043478,19.9111111111,0.392857143
+Romania,Rasnov-Gura Cheii ,,Mousterian,M Paleo,3,22,56,0.3928571429,9.5833333333,0.391304348
+Romania,Romanesti-Dumbravita,III,Aurignacian,U Paleo,3,115,5086,0.0226110893,79.46875,0.022611089
+Romania,Tincova Seliste,I,Aurignacian,U Paleo,,110,2494,0.044105854,22.2678571429,0.044105854
+Romania,Tincova Seliste,II,Mousterian,M Paleo,,6,15,0.4,12.5,0.4
+Spain,Beneito,B3-5,Solutreo-Gravettian,U Paleo,3,226,5000,0.0452,1000,0.0452
+Spain,Beneito,B7,Gravettian,U Paleo,3,198,4244,0.0466540999,707.33,0.0466540999
+Spain,Beneito,B8-9,Aurignacian,U Paleo,3,849,7500,0.1132,2500,0.1132
+Spain,Beneito,D1-3,Mousterian,M Paleo,3,261,1847,0.1413102328,632.5342465753,0.1413102328
+Spain,Cova del Salt,1,Mousterian,M Paleo,5,36,279,0.1290322581,367.1,0.1290322581
+Spain,Cova del Salt,2,Mousterian,M Paleo,5,36,51,0.7058823529,33.8,0.7058823529
+Spain,Cova del Salt,3,Mousterian,M Paleo,5,186,1218,0.1527093596,644.4,0.1527093596
+Spain,Cova del Salt,"3-4, 4",Mousterian,M Paleo,5,54,614,0.0879478827,426.4,0.0879478827
+Spain,Cova del Salt,"4-5, 5",Mousterian,M Paleo,5,54,1043,0.0517737296,459.5,0.0517737296
+Spain,Cova del Salt,"5-6, 6",Mousterian,M Paleo,5,19,450,0.0422222222,238.1,0.0422222222
+Spain,Cova Negra,1,Mousterian,M Paleo,3,410,923,0.4442036836,14.3,0.4442036836
+Spain,Cova Negra,2,Mousterian,M Paleo,3,89,185,0.4810810811,11.5,0.4810810811
+Spain,Cova Negra,3,Mousterian,M Paleo,3,174,385,0.4519480519,10.4,0.4519480519
+Spain,Cova Negra,4,Mousterian,M Paleo,3,84,187,0.449197861,5.9,0.449197861
+Spain,Cova Negra,5,Mousterian,M Paleo,4,108,215,0.5023255814,6.7,0.5023255814
+Spain,Cova Negra,6,Mousterian,M Paleo,4,157,303,0.5181518152,7.1,0.5181518152
+Spain,Cova Negra,7,Mousterian,M Paleo,4,130,234,0.5555555556,6.2,0.5555555556
+Spain,Cova Negra,8,Mousterian,M Paleo,4,85,159,0.534591195,6,0.534591195
+Spain,Cova Negra,9,Mousterian,M Paleo,4,80,146,0.5479452055,4.9,0.5479452055
+Spain,Cova Negra,10,Mousterian,M Paleo,4,68,138,0.4927536232,4.8,0.4927536232
+Spain,Cova Negra,11,Mousterian,M Paleo,4,41,69,0.5942028986,3.8,0.5942028986
+Spain,Cova Negra,12,Mousterian,M Paleo,5a,50,84,0.5952380952,3,0.5952380952
+Spain,Cova Negra,13,Mousterian,M Paleo,5b-5d,55,71,0.7746478873,2.9,0.7746478873
+Spain,Cova Negra,14,Mousterian,M Paleo,5b-5d,35,50,0.7,2.3,0.7
