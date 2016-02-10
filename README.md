@@ -5,7 +5,7 @@ DIRECTLY CITING DATASET
 
 C Michael Barton, Julien Riel-Salvatore, & Gabriel Popescu. (2016, February 9). Middle and Upper Paleolithic dataset used for whole assemblages behavioral indicator (WABI) research. GitHub. Retrieved from https://github.com/cmbarton/WABI_data. DOI: 10.5281/zenodo.45841.
 
-https://zenodo.org/badge/latestdoi/20358/cmbarton/WABI_data
+<a href="https://zenodo.org/badge/latestdoi/20358/cmbarton/WABI_data"><img src="https://zenodo.org/badge/20358/cmbarton/WABI_data.svg" alt="10.5281/zenodo.45842"></a>
 
 ASSOCIATED PUBLICATIONS FOR CITATION:
 
